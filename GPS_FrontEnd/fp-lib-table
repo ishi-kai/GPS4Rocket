@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "GPS_FrontEnd")(type "KiCad")(uri "${KIPRJMOD}/GPS_FrontEnd.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/GPS_FrontEnd.pretty/Library.pretty")(options "")(descr ""))
+)
